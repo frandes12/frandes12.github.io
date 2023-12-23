@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <title>biografi</title>
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <!-- Menambahkan Bootstrap CSS -->
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="text-center">
+        <img src="foto profil2.jpeg" class="img-fluid rounded-circle" alt="Foto Profil" width="200" height="200">
+       </div>
+       <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">FRANDES MIRIANTO SITEPU </h5>
+          <p class="card-text">
+            <strong>Skill: </strong><br>
+            1.Krimping kabel.<br> 2.Mengoperasikan peralatan broadcast.<br> 3.Konfigurasi jaringan.<br>
+            4.Merancang system Penyiaran TV Broadcast.<br> 5. Merancang system Produksi Studio TV. <br> 
+            6.Kenal Bahasa Pemrograman java.<br> 7.Kenal Bahasa Pemrograman WEB.<br>
+            7.Bisa Membuat database.<br> 8.Mahir Menggunakan software Office.  <br>
+            <strong>Pendidikan: </strong><br>
+            1. Sekolah Dasar (1989 - 1995) Lulus Berizasah.<br>
+            2. Sekolah Menengah Pertama (1995 - 1998) Lulus Berizasah.<br>
+            3. Sekolah Teknik Menengah (1998 - 2001) Lulus Berizasah.<br>
+            4. Diploma 3 Universitas Gunadarma (2002 - 2005) Lulus Berizasah<br>
+            <strong>Pencapaian: </strong><br>1. Merancang dan melaksanakan pembuatan jaringan LAN di TVRI Stasiun Jakarta.<br>
+                                         2. Merancang dan melaksanakan pembuatan system Penyiaran di TVRI Stasiun Jakarta.<br>
+                                         3. Sebagai TV Pool Di acara debat calon Gubernur DKI Jakarta tahun 2018.<br>
+                                         4. Ketua TIM Informasi Teknologi, Layanan Media Baru dan Pemeliharaan Peralatan (2012 - Sekarang).<br>
+
+
+          </p>
+        </div>
+       </div>
+
+       <p><strong> Website </strong> sekumpulan baris kode pemrograman yang dapat menghasilkan tampilan visual pada saat diakses melalui
+         browser atau penelusur internet. Baris kode pemrograman ini umumnya adalah dalam bentuk HTML yang dikombinasikan dengan CSS, 
+        namun bisa juga dibuat menggunakan bahasa pemrograman lainnya seperti PHP, Ruby on Rail, Javascript, dan lain sebagainya.</p>
+       <p><strong> Cara kerja website</strong> dimulai dari situs menyimpan informasi melalui dokumen yang berbentuk halaman atau webpage. 
+        Selanjutnya, webpage tersebut akan disimpan dalam server web. Setelahnya, user sebagai unsur penting pada cara kerja website 
+        akan bergerak sebagai komputer client. Fungsinya adalah untuk membaca webpage pada server web. Sehingga, dari proses tersebut
+         browser akan membaca webpage yang terdapat pada server web. </p>
+        <p><strong>Hubungan antara Web Server, Domain,
+          dan Hosting.</strong> <br> Web Server, Domain, dan Hosting memiliki hubungan saling terkait dalam konsep pembuatan dan 
+          akses website. Berikut adalah penjelasan singkat tentang masing-masing:
+        <p><strong> Web Server</strong> <br> Web server adalah perangkat lunak dan perangkat keras yang digunakan untuk menjalankan 
+            aplikasi web dan situs web. Web server menyimpan file HTML, CSS, JavaScript, dan gambar. Ketika orang-orang membuat permintaan 
+            menggunakan browser web, server memberikan informasi ke pengguna.</p>
+        <p><strong>Domain</strong><br>Domain adalah alamat internet yang mengidentifikasi situs web. Ini adalah teks yang pengguna ketikkan di 
+              browser mereka untuk mengunjungi situs yang sudah terdaftar di web server.Sebagai contoh, "www.google.com" adalah nama 
+              domain dari situs web Google.</p>
+        <p><strong>Hosting.</strong><br>Hosting adalah layanan yang memungkinkan individu atau organisasi membuat situs web tersedia 
+                dan dapat diakses secara online. Layanan hosting menyediakan ruang di server untuk file situs web dan memungkinkan situs tersebut 
+                tersedia di internet. Ketika pengunjung mengakses nama domain yang telah di daftarkan, penyedia hosting akan mentransfer file 
+                tersebut ke browser web tersebut.</p>
+        <p><strong> Hubungan Antara Web Server, Domain, dan Hosting</strong>Ketika pengguna mengetikkan nama domain situs 
+            web yang di tuju di browser mereka, permintaan mereka dikirimkan ke server hosting. Server memproses permintaan ini dan mengirimkan
+             file situs web yang sesuai kembali ke browser pengguna.
+             dan domain adalah alamat internet yang digunakan oleh pengguna untuk mengakses situs web Anda, sedangkan web server adalah
+              tempat di mana file situs web disimpan dan ditransmisikan ke pengguna melalui layanan hosting.</p>
+
+        </p>
+          
+    
+
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+ <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</body>
+</html>
